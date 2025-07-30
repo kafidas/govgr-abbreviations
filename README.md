@@ -10,7 +10,7 @@
 Τα περιεχόμενα του αρχείου προέρχονται από την έκδοση της Γενικής Γραμματείας της Κυβέρνησης (2011), διαθέσιμη στον ιστότοπο της Γενικής Γραμματείας Νομικών και Κοινοβουλευτικών Θεμάτων:
 
 - [gslegal.gov.gr – Συντομογραφίες Υπηρεσιών Υπουργείων](https://gslegal.gov.gr/syntomografies-ypiresion-ypourgeion/)
-- [Άμεσο PDF](https://gslegal.gov.gr/wp-content/uploads/2010/02/SYNTOMOGRAFIES-YPOURGEIWN.pdf)
+- [Απευθείας σύνδεσμος στο PDF](https://gslegal.gov.gr/wp-content/uploads/2010/02/SYNTOMOGRAFIES-YPOURGEIWN.pdf)
 
 Αντίγραφο του αρχείου πηγής περιλαμβάνεται στον φάκελο `/data`.
 
