@@ -1,2 +1,0 @@
-govgr-abbreviations.xls
-govgr-abbreviations.csv
